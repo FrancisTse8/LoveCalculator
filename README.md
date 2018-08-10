@@ -12,3 +12,5 @@ Specifically, the following are supported:
 This is a very simple game-like example and does not make internet calls.
 Feel free to experiment and provide feedback to francis.tse8@gmail.com.
 Also, please go to www.pleiades-technology.com to see my PWA discussions in the blog pages and what else I am doing with PWA.
+
+
