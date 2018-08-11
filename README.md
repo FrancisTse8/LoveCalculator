@@ -13,4 +13,4 @@ This is a very simple game-like example and does not make internet calls.
 Feel free to experiment and provide feedback to francis.tse8@gmail.com.
 Also, please go to www.pleiades-technology.com to see my PWA discussions in the blog pages and what else I am doing with PWA.
 
-
+Note that the LoveCalculator source code can be compiled with the new Beta Ionic 4 as well as Ionic 3. But make sure that after cloning the code, cd into the LoveCalculator directory and run npm install to generated the needed .sourcemaps and node_modules directories before compiling code with Ionic, e.g, running ionic serve.
